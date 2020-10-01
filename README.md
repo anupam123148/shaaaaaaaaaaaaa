@@ -1,4 +1,4 @@
-## SHAAAAAAAAAAAAA
+## SHAAAAAAAAAAAAA  documentation
 
 **Note:** This project, and much of its documentation, was written in the fall of 2014, when SHA-1 was still very common and the transition was only beginning.
 
@@ -6,7 +6,7 @@
 
 This web service has been retired, but the code may still be useful for other purposes.
 
-### What this repo is
+### What this repo is ? 
 
 This repository contains the code for **[shaaaaaaaaaaaaa.com](https://shaaaaaaaaaaaaa.com)**, a tool which was used to check whether your site's certificate is signed using **SHA-1** or **SHA-2**.
 
